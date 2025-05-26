@@ -4,7 +4,7 @@ function Calender() {
   return (
     <>
       <div className="bg-purple-50 rounded-lg p-5">
-        
+
         <div className="flex justify-end mt-10 space-x-5 items-center">
           <img src={avtar} alt="avatar" className="w-16 h-16 rounded-lg" />
           <div className="bg-purple-900 text-white flex justify-center items-center w-12 h-12 text-2xl rounded-lg">
@@ -26,7 +26,7 @@ function Calender() {
           </div>
         </div>
 
-        
+       
         <div className="mt-20">
           <h1 className="font-bold text-3xl text-purple-900 mb-2">The Upcoming Schedule</h1>
           <h2 className="text-gray-400 mb-5">On Thursday</h2>
