@@ -1,7 +1,7 @@
 
 import Sidebar from "./components/Sidebar"
 import Dashboard from "./components/Dashboard"
-import Calender from "./components/calender"
+import Calender from "./components/Calender"
 function App() {
  
 
